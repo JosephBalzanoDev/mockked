@@ -1,0 +1,29 @@
+{
+    "caseId": "I0A100036",
+    "policyholderId": "CNNLCU90R55F065Q",
+    "vehicleRegistrationNumber": "DE435DE",
+    "provider": {
+        "code": "144421T",
+        "name": "STUDIO MEONI SRL",
+        "phone": "3896651479"
+    },
+    "intervention": {
+        "type": "AUTOTOWING",
+        "status": "IN PROGRESS",
+        "lastPosition": {
+            "latitude": 43.9341466,
+            "longitude": 10.926865
+        },
+        "lastUpdatedAt": "2020-02-28T15:08:16.768+00:00",
+        "estimatedTimeToArrival": "P0D"
+    },
+    "occurrencePlace": {
+        "address": "VIA RUGGERO LEONCAVALLO",
+        "zipCode": "20000",
+        "city": "BOLLATE",
+        "position": {
+            "latitude": 45.548505,
+            "longitude": 9.109774
+        }
+    }
+}
