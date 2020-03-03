@@ -1,0 +1,156 @@
+{
+    "reference": "I0A100021",
+    "partnerCode": "CTL",
+    "creationDate": "2020-02-20T11:20:00+01:00",
+    "siteCode": "I",
+    "issueType": "BREAKDOWN",
+    "issueLabel": "Guasto",
+    "vehicle": {
+        "brand": "NISSAN",
+        "model": "JUKE",
+        "registrationNumber": "DE345DE"
+    },
+    "towing": {
+        "location": {
+            "address1": "STUDIO MEONI SRL",
+            "address2": "VIA OREFICI",
+            "city": "MILANO",
+            "phone": "3896651479"
+        }
+    },
+    "history": [
+        {
+            "id": "1186768121",
+            "startDate": "2020-02-20T11:51:00+01:00",
+            "endDate": "2020-02-20T12:15:00+01:00",
+            "eventType": "TOWING",
+            "eventLabel": "Traino",
+            "hasCertificate": true,
+            "description": "",
+            "provider": {
+                "name": "STUDIO MEONI SRL",
+                "phone": "3896651479"
+            },
+            "departure": {
+                "address1": "VIA ADAMELLO",
+                "city": "SESTO-SAN-GIOVANNI",
+                "countryCode": "ITA",
+                "position": {
+                    "latitude": "+45.522576",
+                    "longitude": "+09.231160"
+                }
+            },
+            "arrival": {
+                "address1": "STUDIO MEONI SRL",
+                "address2": "VIA OREFICI",
+                "city": "MILANO",
+                "phone": "3896651479",
+                "countryCode": "ITA",
+                "position": {
+                    "latitude": "+45.464362",
+                    "longitude": "+09.187387"
+                }
+            }
+        },
+        {
+            "id": "1297042701",
+            "startDate": "2020-02-20T12:15:00+01:00",
+            "endDate": "2020-02-20T13:00:00+01:00",
+            "eventType": "TAXI",
+            "eventLabel": "Taxi",
+            "hasCertificate": true,
+            "description": "",
+            "provider": {
+                "name": "YELLOW TAX MULTISERVICE",
+                "phone": "026969"
+            },
+            "departure": {
+                "address1": "STUDIO MEONI SRL",
+                "address2": "VIA OREFICI",
+                "city": "MILANO",
+                "countryCode": "ITA",
+                "position": {
+                    "latitude": "+45.464362",
+                    "longitude": "+09.187387"
+                }
+            },
+            "arrival": {
+                "address1": "BW HOTEL CRISTOFORO COLOMBO ****",
+                "address2": "CORSO BUENOS AIRES 3",
+                "city": "MILANO",
+                "phone": "800 116506",
+                "countryCode": "ITA",
+                "position": {
+                    "latitude": "+45.474869",
+                    "longitude": "+09.205353"
+                }
+            }
+        },
+        {
+            "id": "850406984",
+            "startDate": "2020-02-20T13:00:00+01:00",
+            "endDate": "2020-02-21T10:00:00+01:00",
+            "eventType": "HOTEL",
+            "eventLabel": "Albergo",
+            "hasCertificate": true,
+            "description": "",
+            "provider": {
+                "name": "BW HOTEL CRISTOFORO COLOMBO **",
+                "phone": "800116506"
+            },
+            "departure": {
+                "address1": "BW HOTEL CRISTOFORO COLOMBO ****",
+                "address2": "CORSO BUENOS AIRES 3",
+                "city": "MILANO",
+                "countryCode": "ITA",
+                "position": {
+                    "latitude": "+45.474869",
+                    "longitude": "+09.205353"
+                }
+            },
+            "arrival": {
+                "address1": "BW HOTEL CRISTOFORO COLOMBO ****",
+                "address2": "CORSO BUENOS AIRES 3",
+                "city": "MILANO",
+                "phone": "800 116506",
+                "countryCode": "ITA",
+                "position": {
+                    "latitude": "+45.474869",
+                    "longitude": "+09.205353"
+                }
+            }
+        },
+        {
+            "id": "1786001654",
+            "startDate": "2020-02-21T10:00:00+01:00",
+            "endDate": "2020-02-21T15:00:00+01:00",
+            "eventType": "PLANE",
+            "eventLabel": "Aereo",
+            "hasCertificate": true,
+            "description": "Consulta la tua mail per avere il dettaglio della prenotazione.",
+            "provider": {
+                "name": "AIR FRANCE",
+                "phone": "0549347830"
+            },
+            "departure": {
+                "address1": "AEROPORTO",
+                "city": "MILANO",
+                "countryCode": "ITA",
+                "position": {
+                    "latitude": "+45.447842",
+                    "longitude": "+09.256991"
+                }
+            },
+            "arrival": {
+                "address1": "AEROPORTO DI CATANIA",
+                "address2": "VIA ANGELO D'ARRIGO",
+                "city": "CATANIA",
+                "countryCode": "ITA",
+                "position": {
+                    "latitude": "+37.470776",
+                    "longitude": "+15.065464"
+                }
+            }
+        }
+    ]
+}
